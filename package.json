@@ -9,7 +9,7 @@
   "author": "Larry Hunter",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "mongoose": "^5.13.20"
   },
   "devDependencies": {
